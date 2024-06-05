@@ -1,5 +1,11 @@
 Deep Learning with Tensorflow
 =============================
 This repository contains Jupyter notebooks with notes and examples from the book "Deep Learning with Python, 2nd Ed." by Francois Chollet.
-1. [Mathematical foundations](mathematical_foundations.ipynb)
-2. [Tensorflow and Keras](keras.ipynb)
+
+1. [Mathematical foundations](mathematical_foundations.ipynb)  
+2. [Tensorflow](tensorflow_basic.ipynb)
+3. [Keras](keras.ipynb)  
+4. [Binary classification](binary_classification.ipynb)  
+5. [Multiclass classification](multiclass_classification.ipynb)  
+6. [Regression](regression.ipynb)
+7. [Machine learning fundamentals](ml_fundamentals.ipynb)
