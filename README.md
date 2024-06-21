@@ -11,4 +11,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 7. [Machine learning fundamentals](ml_fundamentals.ipynb)
 8. [Machine learning workflow](ml_workflow.ipynb)
 9. [Keras APIs](keras_api.ipynb)  
-10. [Computer Vision](computer_vision.ipynb) 
+10. [Deep Learning for Computer Vision](computer_vision.ipynb) 
