@@ -13,4 +13,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 9. [Keras APIs](keras_api.ipynb)  
 10. [Deep Learning for Computer Vision](computer_vision.ipynb)
 11. [Advanced Deep Learning for Computer Vision - Semantic Segmentation](advanced_computer_vision.ipynb)  
-12. [Residual connections](residual_connections.ipnb)  
+12. [Residual connections](residual_connections.ipynb)  
