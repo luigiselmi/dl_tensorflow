@@ -16,3 +16,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 12. [Advanced Deep Learning for Computer Vision - ConvNet Architecture Best Practices](convnet_best_practices.ipynb)  
 13. [Advanced Deep Learning for Computer Vision - ConvNet Visualization](convnet_visualization.ipynb)  
 14. [Deep Learning for Time Series](time_series.ipynb)
+15. [Deep learning for text](deep_learning_for_text.ipynb)  
