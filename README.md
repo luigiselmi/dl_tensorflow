@@ -17,4 +17,5 @@ This repository contains Jupyter notebooks with notes and examples from the book
 13. [Advanced Deep Learning for Computer Vision - ConvNet Visualization](convnet_visualization.ipynb)  
 14. [Deep Learning for Time Series](time_series.ipynb)
 15. [Deep Learning for text: bag-of-words models](deep_learning_for_text.ipynb)
-16. [Deep Learning for text: sequence models](sequence_models.ipynb)  
+16. [Deep Learning for text: sequence models](sequence_models.ipynb)
+17. [Deep Learning for text: transformers](transformers.ipynb)
