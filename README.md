@@ -19,3 +19,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 15. [Deep Learning for text: bag-of-words models](deep_learning_for_text.ipynb)
 16. [Deep Learning for text: sequence models](sequence_models.ipynb)
 17. [Deep Learning for text: transformers](transformers.ipynb)
+18. [Deep Learning for text: sequence-to-sequence learning](sequence2sequence.ipynb)
