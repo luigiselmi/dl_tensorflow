@@ -20,3 +20,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 16. [Deep Learning for text: sequence models](sequence_models.ipynb)
 17. [Deep Learning for text: transformers](transformers.ipynb)
 18. [Deep Learning for text: sequence-to-sequence learning](sequence2sequence.ipynb)
+19. [Generative deep learning: text generation](text_generation.ipynb)
