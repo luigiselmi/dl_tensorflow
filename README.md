@@ -22,3 +22,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 18. [Deep Learning for text: sequence-to-sequence learning](sequence2sequence.ipynb)
 19. [Generative deep learning: text generation](text_generation.ipynb)
 20. [Generative deep learning: deep dream](deep_dream.ipynb)
+21. [Generative deep learning: neural style transfer](neural_style_transfer.ipynb)
