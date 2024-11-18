@@ -24,3 +24,4 @@ This repository contains Jupyter notebooks with notes and examples from the book
 20. [Generative deep learning: deep dream](deep_dream.ipynb)
 21. [Generative deep learning: neural style transfer](neural_style_transfer.ipynb)
 22. [Generative deep learning: variational autoencoders](variational_autoencoders.ipynb)
+23. [Generative deep learning: generative adversial networks](generative_adversial_networks)
