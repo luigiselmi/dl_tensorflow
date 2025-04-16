@@ -26,3 +26,8 @@ This repository contains Jupyter notebooks with notes and examples from the book
 22. [Generative deep learning: variational autoencoders](variational_autoencoders.ipynb)
 23. [Generative deep learning: generative adversial networks](generative_adversial_networks.ipynb)
 24. [Best practices](best_practices.ipynb)
+
+## Keras convolutional layers
+Keras provides different types of convolutional layers. In this section we provide a short description of each of them and how thety are used in a convolutional network.
+### Conv2D 
+The basic one is [Conv2D](https://keras.io/api/layers/convolution_layers/convolution2d/) that can be used to create a convolutional layer to extract the features from both the spatial dimensions (height and width) and the channel dimension in the same step. The same layer can be used to upsample the data, to increase the spatial resolution, by setting the dilation_rate default value from (1,1) to (2,2) or other higher values. The dilation rate is used to transform a downsampling convolutional layer into an upsampling dilated convolution (aka atrous convolution or transposed convolution). 
