@@ -27,3 +27,8 @@ This repository contains Jupyter notebooks with notes and examples from the book
 23. [Generative deep learning: generative adversial networks](generative_adversial_networks.ipynb)
 24. [Best practices](best_practices.ipynb)
 25. [Keras convolutional layers](keras_conv_layers.ipynb)
+
+## Computer Vision Datasets
+* [ImageNet](https://www.image-net.org/), image classification  
+* [Places](http://places2.csail.mit.edu/), image classification
+* [COCO](https://cocodataset.org/#home), image segmentation, object detection 
